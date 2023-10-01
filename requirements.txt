@@ -1,0 +1,6 @@
+flask
+sqlite3
+bcrypt
+jwt
+datetime
+flask_login
